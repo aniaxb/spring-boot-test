@@ -8,7 +8,6 @@ public class Student {
     private LocalDate dob;
     private String email;
 
-
     public Student() {
     }
 
